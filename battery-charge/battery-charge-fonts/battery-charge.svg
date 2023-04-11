@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="battery-charge" horiz-adv-x="1000" >
+<font-face font-family="battery-charge" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="battery-charging-0" unicode="&#xe800;" d="M960 392h-125v291l-208-416h125v-334m-252 84h-333l2 583h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-10" unicode="&#xe810;" d="M960 392h-125v291l-208-416h125v-334m-252 167h-333l2 500h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-20" unicode="&#xe820;" d="M960 392h-125v291l-208-416h125v-334m-250 209h-333v458h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-30" unicode="&#xe830;" d="M500 225h-333v375h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55m430-291h-125v291l-208-416h125v-334l208 459z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-40" unicode="&#xe840;" d="M542 683h-84v84h-250v-84h-83c-25 0-42-16-42-41v-667c0-25 17-42 42-42h417c25 0 41 17 41 42v667c0 25-16 41-41 41m-42-437h-333v354h333v-354m458 146h-125v291l-208-416h125v-334" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-50" unicode="&#xe850;" d="M958 392h-125v291l-208-416h125v-334m-250 375h-333v292h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-60" unicode="&#xe860;" d="M500 392h-333v208h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55m430-291h-125v291l-208-416h125v-334l208 459z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-70" unicode="&#xe870;" d="M500 433h-333v167h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55m430-291h-125v291l-208-416h125v-334l208 459z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-80" unicode="&#xe880;" d="M958 392h-125v291l-208-416h125v-334m-250 542h-333v125h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-90" unicode="&#xe890;" d="M958 392h-125v291l-208-416h125v-334m-250 584h-333v83h333m28 83h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-charging-100" unicode="&#xe900;" d="M958 392h-125v291l-208-416h125v-334m-222 750h-70v84h-250v-84h-69a55 55 0 0 1-56-55v-639c0-31 25-56 56-56h389c30 0 55 25 55 56v639a55 55 0 0 1-55 55z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>

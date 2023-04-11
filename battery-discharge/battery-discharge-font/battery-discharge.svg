@@ -1,0 +1,32 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg">
+<metadata>Copyright (C) 2023 by original authors @ fontello.com</metadata>
+<defs>
+<font id="battery-discharge" horiz-adv-x="1000" >
+<font-face font-family="battery-discharge" font-weight="400" font-stretch="normal" units-per-em="1000" ascent="850" descent="-150" />
+<missing-glyph horiz-adv-x="1000" />
+<glyph glyph-name="battery-discharge-0" unicode="&#xe800;" d="M667 17h-334v583h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-10" unicode="&#xe810;" d="M667 100h-334v500h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-20" unicode="&#xe820;" d="M667 142h-334v458h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-30" unicode="&#xe830;" d="M667 225h-334v375h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-40" unicode="&#xe840;" d="M667 267h-334v333h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-50" unicode="&#xe850;" d="M667 308h-334v292h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-60" unicode="&#xe860;" d="M667 350h-334v250h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-70" unicode="&#xe870;" d="M667 433h-334v167h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-80" unicode="&#xe880;" d="M667 475h-334v125h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-90" unicode="&#xe890;" d="M667 517h-334v83h334m28 83h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+
+<glyph glyph-name="battery-discharge-100" unicode="&#xe900;" d="M695 683h-70v84h-250v-84h-70a55 55 0 0 1-55-55v-639c0-31 25-56 55-56h390a55 55 0 0 1 55 56v639c0 30-25 55-55 55z" horiz-adv-x="1000" />
+</font>
+</defs>
+</svg>
