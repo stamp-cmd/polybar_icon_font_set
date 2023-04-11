@@ -4,9 +4,9 @@ Icons fonts for polybar status; battery, wifi and volume
 **Notes**: This is not limited to Polybar only, And it does not include config.
 
 ## Included Fonts
-- Material Design Icons (Pictogrammers)
-- Ionicons
-- Boxicons
+- Material Design Icons (Pictogrammers) [Github](https://github.com/Templarian/MaterialDesign) [Website](https://pictogrammers.com/library/mdi/)
+- Ionicons [Github](https://github.com/ionic-team/ionicons) [Website](https://ionic.io/ionicons/)
+- Boxicons [Github](https://github.com/atisawd/boxicons) [Website](https://boxicons.com/)
 
 ## LICENSE
 | Fonts                                 | LICENSE                    |
