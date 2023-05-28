@@ -34,11 +34,14 @@ Icons fonts for polybar status; battery, Wi-Fi, Volume, etc.
 | Battery Discharge/Charge              | E800 - E900 | +10          |
 | Volume                                | E700 - E704 | +1           |
 | Wi-Fi                                 | E600 - E604 | +1           |
-| Signal                                | E800 - E804 | +1           |
+| Signal                                | E800 - E804 | +1*          |
 | Caps Lock                             | E800 - E801 | 0/1          | 
 | Nums Lock                             | E802 - E803 | 2/3          |
 
+**Volume code point E704 is muted*
+
 *Keylock are sorted by off/on. Caps Off (E800) Caps On (E801) Nums Off (E802) Nums On (E803).*
+
 *Point step represent iteration of code points such as: E600, E601, E602, E603, E604.
 
 ### Usage
